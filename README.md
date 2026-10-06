@@ -294,6 +294,12 @@ Pengguna kemudian logout dari admin dan kembali login sebagai user. Pada Menu Us
 
 Setelah selesai melakukan pengujian sebagai user, pengguna memilih Logout dan kembali ke Menu Utama. Kemudian dipilih pilihan 2 yaitu Keluar. Program menampilkan output “Program selesai.” dan proses program berakhir.
 
+**20.Kesimpulan**
+
+Berdasarkan hasil pengujian, Sistem Pendataan Pengunjung Perpustakaan dapat berjalan sesuai dengan fungsi yang telah dirancang. Program berhasil menerapkan proses login dengan role admin dan user, pengelolaan data pengunjung melalui fitur CRUD, serta menampilkan data menggunakan PrettyTable. Selain itu, hasil pengujian juga menunjukkan bahwa validasi input dan error handling dapat bekerja dengan baik, seperti ketika pengguna memasukkan huruf atau pilihan menu yang tidak tersedia. Sistem juga dapat mencatat waktu kunjungan secara otomatis dan memberikan hak akses yang berbeda antara admin dan user.
+
+
+
 ### Output Lengkap
 
 <img width="544" height="421" alt="Screenshot 2026-10-06 175844" src="https://github.com/user-attachments/assets/abebf989-fe51-4913-8b23-542afbe66f74" />
