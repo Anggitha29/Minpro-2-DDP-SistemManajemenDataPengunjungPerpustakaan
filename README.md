@@ -323,7 +323,15 @@ Berdasarkan hasil pengujian, Sistem Pendataan Pengunjung Perpustakaan dapat berj
 <img width="533" height="318" alt="Screenshot 2026-10-06 180613" src="https://github.com/user-attachments/assets/fd038f3b-c23f-4a3c-b9fb-a6fd0c7bca13" />
 
 
+### Penerapan Nilai Tambah
 
+Program ini menerapkan dua nilai tambah, yaitu:
+
+**1. Validasi Input dan Error Handling**
+Program memiliki validasi input menggunakan try-except, sehingga ketika pengguna memasukkan input yang salah, seperti memasukkan huruf saat diminta angka, program tidak langsung berhenti atau mengalami error. Program akan menampilkan pesan kesalahan dan meminta pengguna memasukkan input kembali.
+
+**2. Penggunaan 3 Library atau Lebih**
+Program menerapkan tiga library sesuai dengan kebutuhan program, yaitu PrettyTable, pwinput, dan datetime. PrettyTable digunakan untuk menampilkan data dalam bentuk tabel, pwinput digunakan untuk menyembunyikan password saat login, sedangkan datetime digunakan untuk mencatat waktu kunjungan secara otomatis.
 
 
 
